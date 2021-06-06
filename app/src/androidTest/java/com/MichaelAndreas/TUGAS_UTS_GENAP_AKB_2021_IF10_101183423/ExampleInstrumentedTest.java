@@ -1,4 +1,4 @@
-package com.josepvictorr.tugas_uts_akb_genap_2021_if9_10118369;
+package com.MichaelAndreas.TUGAS_UTS_GENAP_AKB_2021_IF10_101183423;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.josepvictorr.tugas_uts_akb_genap_2021_if9_10118369", appContext.getPackageName());
+        assertEquals("com.MichaelAndreas.TUGAS_UTS_GENAP_AKB_2021_IF10_101183423", appContext.getPackageName());
     }
 }

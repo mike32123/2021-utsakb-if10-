@@ -1,10 +1,10 @@
 <resources>
-    <string name="app_name">TUGAS-UTS-AKB-GENAP-2021-IF9-10118369</string>
+    <string name="app_name">TUGAS-UTS-AKB-GENAP-2021-IF10-10118423</string>
     <string name="profile">Profile</string>
     <string name="note">Notes</string>
     <string name="info">Info</string>
-    <string name="nama">Josep Victor Rajadoli</string>
-    <string name="email">Josepvictorrrrr@gmail.com</string>
-    <string name="kelas">IF - 9</string>
-    <string name="nim">10118369</string>
+    <string name="nama">Michael Andreas</string>
+    <string name="email">am341427@gmail.com</string>
+    <string name="kelas">IF - 10</string>
+    <string name="nim">10118423</string>
 </resources>

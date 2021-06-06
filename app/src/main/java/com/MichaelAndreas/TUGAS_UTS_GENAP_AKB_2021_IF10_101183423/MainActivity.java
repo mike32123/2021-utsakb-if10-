@@ -1,25 +1,19 @@
-package com.josepvictorr.tugas_uts_akb_genap_2021_if9_10118369;
+package com.MichaelAndreas.TUGAS_UTS_GENAP_AKB_2021_IF10_101183423;
 
 import androidx.annotation.NonNull;
-import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.fragment.app.Fragment;
 
 import androidx.fragment.app.FragmentTransaction;
-import androidx.navigation.NavController;
-import androidx.navigation.Navigation;
-import androidx.navigation.ui.AppBarConfiguration;
-import androidx.navigation.ui.NavigationUI;
 import androidx.viewpager.widget.ViewPager;
 
 import android.os.Bundle;
-import android.os.PersistableBundle;
 import android.view.MenuItem;
 
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 
 public class MainActivity extends AppCompatActivity implements BottomNavigationView.OnNavigationItemSelectedListener {
-    // 2 Juni 2021 - 10118369 - Josep Victor Rajadoli - IF 9
+    // 1 Juni 2021 - 10118423 - IF10 - MichaaelAndreas
 
     private BottomNavigationView bottomNavigationView;
     private ViewPager viewPager;

@@ -1,4 +1,4 @@
-package com.josepvictorr.tugas_uts_akb_genap_2021_if9_10118369;
+package com.MichaelAndreas.TUGAS_UTS_GENAP_AKB_2021_IF10_101183423;
 
 import androidx.annotation.NonNull;
 import androidx.fragment.app.Fragment;
@@ -6,7 +6,7 @@ import androidx.fragment.app.FragmentManager;
 import androidx.fragment.app.FragmentPagerAdapter;
 
 public class ViewPageAdapter extends FragmentPagerAdapter {
-    // 2 Juni 2021 - 10118369 - Josep Victor Rajadoli - IF 9
+    // 1 Juni 2021 - 10118423 - IF10 - MichaaelAndreas
 
     public ViewPageAdapter(@NonNull FragmentManager fm) {
         super(fm);

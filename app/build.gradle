@@ -7,7 +7,7 @@ android {
     buildToolsVersion "30.0.3"
 
     defaultConfig {
-        applicationId "com.josepvictorr.tugas_uts_akb_genap_2021_if9_10118369"
+        applicationId "com.MichaelAndreas.TUGAS_UTS_GENAP_AKB_2021_IF10_101183423"
         minSdkVersion 21
         targetSdkVersion 30
         versionCode 1

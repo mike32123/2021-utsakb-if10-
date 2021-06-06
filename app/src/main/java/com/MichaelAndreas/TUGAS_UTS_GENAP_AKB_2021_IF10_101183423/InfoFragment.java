@@ -1,11 +1,9 @@
-package com.josepvictorr.tugas_uts_akb_genap_2021_if9_10118369;
+package com.MichaelAndreas.TUGAS_UTS_GENAP_AKB_2021_IF10_101183423;
 
 import android.os.Bundle;
 
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
-import androidx.appcompat.app.ActionBar;
-import androidx.appcompat.app.AppCompatActivity;
 import androidx.fragment.app.Fragment;
 
 import android.view.LayoutInflater;
@@ -13,7 +11,7 @@ import android.view.View;
 import android.view.ViewGroup;
 
 public class InfoFragment extends Fragment {
-    // 2 Juni 2021 - 10118369 - Josep Victor Rajadoli - IF 9
+    // 1 Juni 2021 - 10118423 - IF10 - MichaaelAndreas
     @Nullable
     @Override
     public View onCreateView(@NonNull LayoutInflater inflater,@Nullable ViewGroup container,
